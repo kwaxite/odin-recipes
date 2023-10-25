@@ -1,0 +1,27 @@
+body {
+    color:blue;
+}
+
+h3 {
+    color:brown;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.para1 {
+    color:darkmagenta;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+ul {
+    color:white;
+    background-color: black;
+}
+
+.w1 {
+    color:green;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
